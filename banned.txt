@@ -1,0 +1,11 @@
+{
+    "bans": [
+        {
+            "user": "your mom",
+            "reason": "Placeholder ban, RIP mom"
+        }, {
+            "user": "quizlet",
+            "reason": "Placeholder ban, RIP Quizlet"
+        }
+    ]
+}
